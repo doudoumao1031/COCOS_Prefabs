@@ -1,0 +1,34 @@
+{
+  "ver": "2.3.3",
+  "uuid": "53e8561f-49db-4fbe-85bc-ca57d16d2a8b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
+  "subMetas": {
+    "第一册2-04": {
+      "ver": "1.0.4",
+      "uuid": "a3ea179f-69fb-480c-893e-a8d0fc2b2765",
+      "rawTextureUuid": "53e8561f-49db-4fbe-85bc-ca57d16d2a8b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 2812,
+      "height": 1837,
+      "rawWidth": 2812,
+      "rawHeight": 1837,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
